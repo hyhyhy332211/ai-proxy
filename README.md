@@ -77,7 +77,6 @@
 | 跨区域业务部署        | 屏蔽跨境网络异构性，保障国内 / 香港 / 东南亚等多区域服务的访问稳定性    |
 | 企业级运维管理        | 统一查看多模型调用日志、成本消耗、异常信息，实现集中化运维管控          |
 
-<img width="1795" height="826" alt="image" src="https://github.com/user-attachments/assets/2cb442d8-dbca-4194-b899-4ba376cf501d" />
 
 ## 四、快速接入指南
 
@@ -162,7 +161,7 @@ print(response.choices[0].message.content)
 * **长期稳定**：平台已稳定运行 18 个月，承诺提供永久优质服务。
 
 * **国内支付**：支持微信 / 支付宝充值，无需海外支付账户。
-* <img width="1795" height="1039" alt="image" src="https://github.com/user-attachments/assets/384af3d4-e119-48a3-b884-5086c4b1e538" />
+<img width="1795" height="826" alt="image" src="https://github.com/user-attachments/assets/2cb442d8-dbca-4194-b899-4ba376cf501d" />
 
 
 ### 5.2 工具生态支持
