@@ -217,3 +217,24 @@ print(response.choices[0].message.content)
 * [Claude Code 配置一步API](https://yibuapi.apifox.cn/7200412m0)
 * [91写作平台 配置一步API](https://yibuapi.apifox.cn/7279860m0)
 
+***⚙️ 示例代码***
+
+* [OpenAI-Python示例代码](https://yibuapi.apifox.cn/6448294m0)
+* [Claude-Python示例代码](https://yibuapi.apifox.cn/6448313m0)
+* [OpenAI-image-Python示例代码](https://yibuapi.apifox.cn/6547503m0)
+* [Gemini-Python示例代码](https://yibuapi.apifox.cn/6557025m0)
+* [Gemini多场景-Python示例代码](https://yibuapi.apifox.cn/7505263m0)
+* [Rerank-Python示例代码](https://yibuapi.apifox.cn/6993759m0)
+* [whisper-1-Python示例代码](https://yibuapi.apifox.cn/7468602m0)
+* [dalle-3-Python示例代码](https://yibuapi.apifox.cn/7490369m0)
+* [doubao-Python示例代码](https://yibuapi.apifox.cn/7490379m0)
+* [gemini-image-Python示例代码](https://yibuapi.apifox.cn/7490461m0)
+* [gpt-image-1-Python示例代码](https://yibuapi.apifox.cn/7490460m0)
+* [sora-2-Python示例代码](https://yibuapi.apifox.cn/7507853m0)
+* [Pro/BAAI/bge-reranker-v2-m3-Python示例代码](https://yibuapi.apifox.cn/7543666m0)
+* [Gemini3 多轮工具调用-Python示例代码](https://yibuapi.apifox.cn/7742518m0)
+* [Gemini image控制宽高比+清晰度-Python示例代码](https://yibuapi.apifox.cn/7743375m0)
+
+
+
+
