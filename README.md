@@ -48,7 +48,7 @@
 
 ## 三、一步 API 核心能力
 
-一步 API（`yibuapi.com`）是功能完善的 AI 模型中转聚合平台，支持 OpenAI、Claude、Midjourney、Suno 等多类模型，可理解为「AI 模型管道中转站」。
+一步 API（`https://yibuapi.com/register?aff=SgZC`）是功能完善的 AI 模型中转聚合平台，支持 OpenAI、Claude、Midjourney、Suno 等多类模型，可理解为「AI 模型管道中转站」。
 
 ### 3.1 核心优势
 
@@ -86,7 +86,7 @@
 
 1. **注册登录**
 
-   访问[一步 API 官网](https://yibuapi.com)完成账号注册与登录。
+   访问[一步 API 官网](https://yibuapi.com/register?aff=SgZC)完成账号注册与登录。
 
 2. **获取 API Key**
 
@@ -183,7 +183,7 @@ print(response.choices[0].message.content)
 一步 API 通过统一接口、全球加速、聚合计费等能力，为国内开发者扫清了海外 AI 大模型接入的技术与成本障碍。无论是个人开发者快速实现创意，还是企业级业务稳定落地，均可借助平台实现高效、低成本的 AI 能力集成。
 
 
-👉 立即体验：[一步 API 官网](https://yibuapi.com)
+👉 立即体验：[一步 API 官网](https://yibuapi.com/register?aff=SgZC)
 
 
 
